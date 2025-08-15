@@ -14,46 +14,46 @@ The result is a **data-driven decision support system** that helps optimize trav
 ---
 
 ## 📊 Dashboard Visualizations & Insights
-### 📌 Overview Metrics
-#### 💰 Total Revenue
+## 📌 Overview Metrics
+### 💰 Total Revenue
 **Visualization: KPI Card**
 * Displays total corporate travel revenue in millions for a quick high-level financial snapshot.
-#### 🛫 Total Flights Booked** *(Card Metric)
+### 🛫 Total Flights Booked** *(Card Metric)
 **Visualization: KPI Card**
 * Shows the total number of flights booked, reflecting overall travel activity.
-#### 👥 Total Unique Users
+### 👥 Total Unique Users
 **Visualization: KPI Card**
 * Indicates the number of distinct travelers in the dataset.
-#### 🍩 Flight Type Distribution
+### 🍩 Flight Type Distribution
 **Visualization: Donut Chart**
 * Visualizes the share of bookings among **Economy, First Class, and Premium** categories.
-#### 🚻 Gender vs. Flight Type
+### 🚻 Gender vs. Flight Type
 **Visualization: Dual Donut Charts**
 * Compares class preferences between **male** and **female** travelers.
 
 ---
 
-### 📅 **Time & Location Trends**
-#### 📆 Seasonal Travel Patterns
-**Visualization: KPI Card**
+## 📅 Time & Location Trends
+### 📆 Seasonal Travel Patterns
+  **Visualization: KPI Card**
 * Tracks quarterly booking trends to identify peak and off-season travel periods.
-#### 🏢 Agency Performance by Month
+### 🏢 Agency Performance by Month
 **Visualization: Stacked Bar Chart**
 * Compares monthly booking contributions from different travel agencies.
-#### 🗺 Bookings by Origin Location
+### 🗺 Bookings by Origin Location
 **Visualization: Map Chart**
 * Shows total flight bookings originating from different regions in **Brazil**.
 
 ---
 
-### 💵 **Revenue & Pricing Insights**
-#### 📊 Flight Type vs. Quarterly Bookings
+## 💵 Revenue & Pricing Insights
+### 📊 Flight Type vs. Quarterly Bookings
 **Visualization: Bar Chart**
 * Displays how bookings for each travel class vary across quarters.
-#### 💸 Price vs. Flight Duration
+### 💸 Price vs. Flight Duration
 **Visualization: Bubble Chart**
 * Analyzes how price ranges relate to different flight durations.
-#### Distance vs. Price
+### 📍 Distance vs. Price
 **Visualization: Scatter Plot**
 * Examines the correlation between travel distance and ticket pricing per customer.
 
