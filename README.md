@@ -57,6 +57,8 @@ The result is a **data-driven decision support system** that helps optimize trav
 **Visualization: Scatter Plot**
 * Examines the correlation between travel distance and ticket pricing per customer.
 
+---
+
 ## 🎨 Color Palette
 
 | Color Name      | Hex Code  |
