@@ -19,7 +19,7 @@ The result is a **data-driven decision support system** that helps optimize trav
   **Visualization: KPI Card**
 * Displays total corporate travel revenue in millions for a quick high-level financial snapshot.
 ### 🛫 Total Flights Booked
-  **Visualization: KPI Card**
+      **Visualization: KPI Card**
 * Shows the total number of flights booked, reflecting overall travel activity.
 ### 👥 Total Unique Users
   **Visualization: KPI Card**
