@@ -57,9 +57,8 @@ The result is a **data-driven decision support system** that helps optimize trav
 **Visualization: Scatter Plot**
 * Examines the correlation between travel distance and ticket pricing per customer.
 
----
-
 ## 🎨 Color Palette
+
 | Color Name      | Hex Code  |
 | --------------- | --------- |
 | Light Sage      | `#ebf1e8` |
@@ -68,13 +67,9 @@ The result is a **data-driven decision support system** that helps optimize trav
 | Teal Green      | `#1BCFB4` |
 | Soft Coral Pink | `#FF9599` |
 
----
-
 ## 👀 Dashboard Preview
 ![**Travel Insights Dashboard**](https://raw.githubusercontent.com/SandipGit04/Travel-Insights-Dashboard/refs/heads/main/Dashboard%20Image/Whole%20Dashboard.png)
 #### 🌐 Interact With the Dashboard Here : [Travel Insights Dashboard](https://public.tableau.com/app/profile/sandip.kundu5209/viz/TravelInsightsDashboard/TravelInsightsDashboard)
-
----
 
 ## 🛠 How to Use the Dashboard
 * **Filter** results by Year, Flight Type, Agency, Gender, Age Group, Company, State, or City.
