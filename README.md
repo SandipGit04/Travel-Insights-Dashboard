@@ -1,7 +1,5 @@
 # *Travel Insights Dashboard – Tableau Project*
-**🚀 Comprehensive travel analytics dashboard delivering actionable workforce travel insights for Argo Solutions.**
-
----
+**📊 Comprehensive travel analytics dashboard delivering actionable workforce travel insights for Argo Solutions.**
 
 ## 📌 Project Overview
 The **Travel Insights Dashboard** is a comprehensive analytics tool designed to provide actionable insights into corporate travel behavior. Using a **Kaggle-sourced dataset** simulating corporate travel systems, the project analyzes **1,000+ unique users** and **250,000+ flight records** to uncover booking patterns, pricing trends, and traveler demographics.
