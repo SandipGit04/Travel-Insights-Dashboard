@@ -6,7 +6,8 @@ The **Travel Insights Dashboard** is a comprehensive analytics tool designed to 
 The dashboard is tailored for **Argo Solutions**, a leading Latin American technology company specializing in **corporate travel and expense management**. By leveraging **interactive visuals**, decision-makers can:
 * Monitor **key performance indicators** such as revenue, flight volumes, and user counts.
 * Identify **seasonal booking trends** and high-demand destinations.
-* Compare **agency performance** and understand traveler preferences by class, price, and distance.  
+* Compare **agency performance** and understand traveler preferences by class, price, and distance.
+
 The result is a **data-driven decision support system** that helps optimize travel policies, improve vendor negotiations, and enhance the **corporate travel experience**.
 
 ---
