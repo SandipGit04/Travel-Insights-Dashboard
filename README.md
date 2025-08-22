@@ -1,4 +1,4 @@
-# *Travel Insights Dashboard – Tableau Project*
+# *✈️ Travel Insights Dashboard – Tableau Project*
 **📊 Comprehensive travel analytics dashboard delivering actionable workforce travel insights for Argo Solutions.**
 
 ## 📌 Project Overview
@@ -73,6 +73,8 @@ The result is a **data-driven decision support system** that helps optimize trav
 ![**Travel Insights Dashboard**](https://raw.githubusercontent.com/SandipGit04/Travel-Insights-Dashboard/refs/heads/main/Dashboard%20Image/Whole%20Dashboard.png)
 #### 🌐 Interact With the Dashboard Here : [Travel Insights Dashboard](https://public.tableau.com/app/profile/sandip.kundu5209/viz/TravelInsightsDashboard/TravelInsightsDashboard)
 
+---
+
 ## 🛠 How to Use the Dashboard
 * **Filter** results by Year, Flight Type, Agency, Gender, Age Group, Company, State, or City.
 * **Select** any chart element to dynamically filter related visuals.
@@ -86,4 +88,3 @@ For questions or support, reach out via:
 📩 Email : [**kundusandip004@gmail.com**](mailto:kundusandip004@gmail.com)  
 🔗 LinkedIn : [**linkedin.com/in/sandipin04**](https://www.linkedin.com/in/sandipin04/)  
 𝕏 Twitter : [**@SandipX04**](https://x.com/SandipX04)
-
